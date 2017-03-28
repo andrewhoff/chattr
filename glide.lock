@@ -1,0 +1,6 @@
+hash: 5f4833281735bc9f2aa16784a52acc8067d4d281d1c769ed910892b9f4ab9853
+updated: 2017-03-27T21:59:03.707082366-05:00
+imports:
+- name: github.com/ogier/pflag
+  version: 45c278ab3607870051a2ea9040bb85fcb8557481
+testImports: []

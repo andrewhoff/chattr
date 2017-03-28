@@ -1,0 +1,3 @@
+package: github.com/andrewhoff/chattr
+import:
+- package: github.com/ogier/pflag
